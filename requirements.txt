@@ -12,4 +12,5 @@ openpyxl
 xlrd
 docx2txt
 python-dotenv
-torch torchvision
+torch 
+torchvision
